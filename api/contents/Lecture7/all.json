@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.922242Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.064367Z",
+      "mimetype": "text/csv",
+      "name": "contact.csv",
+      "path": "Lecture7/contact.csv",
+      "size": 426,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.921962Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.064115Z",
+      "mimetype": null,
+      "name": "Objects.ipynb",
+      "path": "Lecture7/Objects.ipynb",
+      "size": 79396,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.922159Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.922159Z",
+  "mimetype": null,
+  "name": "Lecture7",
+  "path": "Lecture7",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

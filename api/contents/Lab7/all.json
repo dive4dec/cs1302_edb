@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.915115Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.059437Z",
+      "mimetype": null,
+      "name": "Manim.ipynb",
+      "path": "Lab7/Manim.ipynb",
+      "size": 16919,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.915311Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.059546Z",
+      "mimetype": null,
+      "name": "Pandas.ipynb",
+      "path": "Lab7/Pandas.ipynb",
+      "size": 22647,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.915240Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.915240Z",
+  "mimetype": null,
+  "name": "Lab7",
+  "path": "Lab7",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

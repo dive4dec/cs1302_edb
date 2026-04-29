@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.906951Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.054018Z",
+      "mimetype": "image/svg+xml",
+      "name": "card_game.dio.svg",
+      "path": "Lab1/images/card_game.dio.svg",
+      "size": 287584,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.908302Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.054486Z",
+      "mimetype": "image/svg+xml",
+      "name": "evaluate-code.svg",
+      "path": "Lab1/images/evaluate-code.svg",
+      "size": 325,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.908068Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.054413Z",
+      "mimetype": "image/svg+xml",
+      "name": "dt.dio.svg",
+      "path": "Lab1/images/dt.dio.svg",
+      "size": 24811,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.907545Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.054304Z",
+      "mimetype": "image/svg+xml",
+      "name": "debugger-panels.svg",
+      "path": "Lab1/images/debugger-panels.svg",
+      "size": 242753,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.908213Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.908213Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "Lab1/images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

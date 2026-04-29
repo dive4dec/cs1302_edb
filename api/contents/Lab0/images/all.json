@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.899595Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.044135Z",
+      "mimetype": "image/svg+xml",
+      "name": "admin.dio.svg",
+      "path": "Lab0/images/admin.dio.svg",
+      "size": 811349,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.903093Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.050281Z",
+      "mimetype": "image/svg+xml",
+      "name": "myenv.dio.svg",
+      "path": "Lab0/images/myenv.dio.svg",
+      "size": 622765,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.900883Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.048824Z",
+      "mimetype": "image/svg+xml",
+      "name": "collab.dio.svg",
+      "path": "Lab0/images/collab.dio.svg",
+      "size": 1866641,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.904291Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.052306Z",
+      "mimetype": "image/svg+xml",
+      "name": "options.dio.svg",
+      "path": "Lab0/images/options.dio.svg",
+      "size": 800165,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.903923Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.903923Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "Lab0/images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

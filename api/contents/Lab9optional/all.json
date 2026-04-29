@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.916375Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.060073Z",
+      "mimetype": null,
+      "name": "Language_Model.ipynb",
+      "path": "Lab9optional/Language_Model.ipynb",
+      "size": 38658,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.916615Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.060161Z",
+      "mimetype": "text/x-python",
+      "name": "__init__.py",
+      "path": "Lab9optional/__init__.py",
+      "size": 1022,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.916532Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.916532Z",
+  "mimetype": null,
+  "name": "Lab9optional",
+  "path": "Lab9optional",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

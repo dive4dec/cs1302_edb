@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.923431Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.065334Z",
+      "mimetype": null,
+      "name": "Exercises_on_Selected_Topics.ipynb",
+      "path": "LectureR/Exercises_on_Selected_Topics.ipynb",
+      "size": 69877,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.923342Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.923342Z",
+  "mimetype": null,
+  "name": "LectureR",
+  "path": "LectureR",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

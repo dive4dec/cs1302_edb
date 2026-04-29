@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.920490Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.063218Z",
+      "mimetype": null,
+      "name": "Functions.ipynb",
+      "path": "Lecture5/Functions.ipynb",
+      "size": 70378,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.920379Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.920379Z",
+  "mimetype": null,
+  "name": "Lecture5",
+  "path": "Lecture5",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.916073Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.059924Z",
+      "mimetype": null,
+      "name": "Information_Theory.ipynb",
+      "path": "Lab9/Information_Theory.ipynb",
+      "size": 43417,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.915952Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.915952Z",
+  "mimetype": null,
+  "name": "Lab9",
+  "path": "Lab9",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

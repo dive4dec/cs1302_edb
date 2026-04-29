@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.917486Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T16:10:04.917486Z",
+      "mimetype": null,
+      "name": "images",
+      "path": "LabXoptional/images",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.917332Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.060798Z",
+      "mimetype": "text/x-python",
+      "name": "__init__.py",
+      "path": "LabXoptional/__init__.py",
+      "size": 1022,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.917114Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.060488Z",
+      "mimetype": null,
+      "name": "Transformer.ipynb",
+      "path": "LabXoptional/Transformer.ipynb",
+      "size": 37090,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.917417Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.917417Z",
+  "mimetype": null,
+  "name": "LabXoptional",
+  "path": "LabXoptional",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

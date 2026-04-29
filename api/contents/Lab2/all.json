@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.911358Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.057261Z",
+      "mimetype": "text/x-python",
+      "name": "jsxgraphs.py",
+      "path": "Lab2/jsxgraphs.py",
+      "size": 17237,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.910860Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T16:10:04.910860Z",
+      "mimetype": null,
+      "name": "images",
+      "path": "Lab2/images",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.908928Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.054829Z",
+      "mimetype": null,
+      "name": "Symbolic_Calculators.ipynb",
+      "path": "Lab2/Symbolic_Calculators.ipynb",
+      "size": 20418,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.908706Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.054716Z",
+      "mimetype": null,
+      "name": "Calculators.ipynb",
+      "path": "Lab2/Calculators.ipynb",
+      "size": 30079,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.911250Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.911250Z",
+  "mimetype": null,
+  "name": "Lab2",
+  "path": "Lab2",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

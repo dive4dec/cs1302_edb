@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.906637Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.053434Z",
+      "mimetype": null,
+      "name": "Debugger.ipynb",
+      "path": "Lab1/Debugger.ipynb",
+      "size": 17875,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.908213Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T16:10:04.908213Z",
+      "mimetype": null,
+      "name": "images",
+      "path": "Lab1/images",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.906394Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.053321Z",
+      "mimetype": null,
+      "name": "Binary_Code.ipynb",
+      "path": "Lab1/Binary_Code.ipynb",
+      "size": 41848,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.908485Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.054543Z",
+      "mimetype": "text/x-python",
+      "name": "utils.py",
+      "path": "Lab1/utils.py",
+      "size": 445,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.908408Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.908408Z",
+  "mimetype": null,
+  "name": "Lab1",
+  "path": "Lab1",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

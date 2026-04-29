@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.920199Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.063028Z",
+      "mimetype": null,
+      "name": "Iteration.ipynb",
+      "path": "Lecture4/Iteration.ipynb",
+      "size": 53108,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.920122Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.920122Z",
+  "mimetype": null,
+  "name": "Lecture4",
+  "path": "Lecture4",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.924951Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T16:10:04.924951Z",
+      "mimetype": null,
+      "name": "images",
+      "path": "LectureX/images",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.923729Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.066118Z",
+      "mimetype": null,
+      "name": "Numerical_Analysis.ipynb",
+      "path": "LectureX/Numerical_Analysis.ipynb",
+      "size": 222050,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.924063Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.924063Z",
+  "mimetype": null,
+  "name": "LectureX",
+  "path": "LectureX",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

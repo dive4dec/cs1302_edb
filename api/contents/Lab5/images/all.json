@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.913636Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.058756Z",
+      "mimetype": "image/svg+xml",
+      "name": "rhombitrihexagons.dio.svg",
+      "path": "Lab5/images/rhombitrihexagons.dio.svg",
+      "size": 131100,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.913384Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.058413Z",
+      "mimetype": "image/svg+xml",
+      "name": "rhombitrihexagon.dio.svg",
+      "path": "Lab5/images/rhombitrihexagon.dio.svg",
+      "size": 30520,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.913209Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.058304Z",
+      "mimetype": "image/svg+xml",
+      "name": "forward.dio.svg",
+      "path": "Lab5/images/forward.dio.svg",
+      "size": 3460,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.913512Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.913512Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "Lab5/images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

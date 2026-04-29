@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.925113Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.068226Z",
+      "mimetype": "image/gif",
+      "name": "RandomPointInSquare.gif",
+      "path": "LectureX/images/RandomPointInSquare.gif",
+      "size": 750419,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.924279Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.066679Z",
+      "mimetype": "image/gif",
+      "name": "LinearEquationToMatrixForm.gif",
+      "path": "LectureX/images/LinearEquationToMatrixForm.gif",
+      "size": 502903,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.924951Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.924951Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "LectureX/images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

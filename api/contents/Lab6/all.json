@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.914637Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.059247Z",
+      "mimetype": null,
+      "name": "Sphinx.ipynb",
+      "path": "Lab6/Sphinx.ipynb",
+      "size": 14099,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.914872Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.059326Z",
+      "mimetype": "text/x-python",
+      "name": "conf.py",
+      "path": "Lab6/conf.py",
+      "size": 2006,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.914397Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.059039Z",
+      "mimetype": null,
+      "name": "Combinatorics.ipynb",
+      "path": "Lab6/Combinatorics.ipynb",
+      "size": 34761,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.914779Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.914779Z",
+  "mimetype": null,
+  "name": "Lab6",
+  "path": "Lab6",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

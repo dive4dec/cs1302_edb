@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.919992Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.062885Z",
+      "mimetype": "text/x-python",
+      "name": "flowcharts.py",
+      "path": "Lecture3/flowcharts.py",
+      "size": 1255,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.919718Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.062812Z",
+      "mimetype": null,
+      "name": "Conditional_Execution.ipynb",
+      "path": "Lecture3/Conditional_Execution.ipynb",
+      "size": 85448,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.919919Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.919919Z",
+  "mimetype": null,
+  "name": "Lecture3",
+  "path": "Lecture3",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

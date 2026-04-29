@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.911830Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.057681Z",
+      "mimetype": null,
+      "name": "Parsing_and_Validation.ipynb",
+      "path": "Lab3/Parsing_and_Validation.ipynb",
+      "size": 25278,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.911607Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.057575Z",
+      "mimetype": null,
+      "name": "Improved_Quadratic_Equation_Solver.ipynb",
+      "path": "Lab3/Improved_Quadratic_Equation_Solver.ipynb",
+      "size": 17987,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.911734Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.911734Z",
+  "mimetype": null,
+  "name": "Lab3",
+  "path": "Lab3",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

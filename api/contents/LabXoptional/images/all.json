@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.917619Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.061397Z",
+      "mimetype": "image/png",
+      "name": "spiral.png",
+      "path": "LabXoptional/images/spiral.png",
+      "size": 347877,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.917486Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.917486Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "LabXoptional/images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

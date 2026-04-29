@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.915766Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.059792Z",
+      "mimetype": null,
+      "name": "Cybersecurity.ipynb",
+      "path": "Lab8/Cybersecurity.ipynb",
+      "size": 34903,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.915551Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.059687Z",
+      "mimetype": null,
+      "name": "Asymmetric_Key_Cipher.ipynb",
+      "path": "Lab8/Asymmetric_Key_Cipher.ipynb",
+      "size": 33637,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.915685Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.915685Z",
+  "mimetype": null,
+  "name": "Lab8",
+  "path": "Lab8",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

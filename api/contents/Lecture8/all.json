@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-29T16:10:04.922452Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-29T01:58:30.064538Z",
+      "mimetype": null,
+      "name": "Sequence_Types.ipynb",
+      "path": "Lecture8/Sequence_Types.ipynb",
+      "size": 97541,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-29T16:10:04.922364Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-29T16:10:04.922364Z",
+  "mimetype": null,
+  "name": "Lecture8",
+  "path": "Lecture8",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

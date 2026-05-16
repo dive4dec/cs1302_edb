@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2026-04-29T16:10:04.922242Z",
+      "created": "2026-04-29T01:58:30.064367Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -16,7 +16,7 @@
     },
     {
       "content": null,
-      "created": "2026-04-29T16:10:04.921962Z",
+      "created": "2026-04-29T01:58:30.064115Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -29,11 +29,11 @@
       "writable": true
     }
   ],
-  "created": "2026-04-29T16:10:04.922159Z",
+  "created": "2026-05-16T05:28:31.428447Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-04-29T16:10:04.922159Z",
+  "last_modified": "2026-05-16T05:28:31.428953Z",
   "mimetype": null,
   "name": "Lecture7",
   "path": "Lecture7",

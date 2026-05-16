@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2026-04-29T16:10:04.920827Z",
+      "created": "2026-04-29T01:58:30.063405Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -16,7 +16,7 @@
     },
     {
       "content": null,
-      "created": "2026-04-29T16:10:04.921719Z",
+      "created": "2026-04-29T01:58:30.063974Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -30,7 +30,7 @@
     },
     {
       "content": null,
-      "created": "2026-04-29T16:10:04.921312Z",
+      "created": "2026-04-29T01:58:30.063759Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -44,7 +44,7 @@
     },
     {
       "content": null,
-      "created": "2026-04-29T16:10:04.921090Z",
+      "created": "2026-04-29T01:58:30.063707Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -58,7 +58,7 @@
     },
     {
       "content": null,
-      "created": "2026-04-29T16:10:04.921490Z",
+      "created": "2026-04-29T01:58:30.063835Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -71,11 +71,11 @@
       "writable": true
     }
   ],
-  "created": "2026-04-29T16:10:04.921626Z",
+  "created": "2026-05-16T05:28:31.427187Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-04-29T16:10:04.921626Z",
+  "last_modified": "2026-05-16T05:28:31.428282Z",
   "mimetype": null,
   "name": "Lecture6",
   "path": "Lecture6",

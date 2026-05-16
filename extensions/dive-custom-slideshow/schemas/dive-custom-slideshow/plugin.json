@@ -1,0 +1,125 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "dive-custom-slideshow",
+  "description": "dive-custom-slideshow settings.",
+  "type": "object",
+  "properties": {
+    "dummy": {
+      "type": "boolean",
+      "title": "Dummy",
+      "description": "Placeholder",
+      "default": false
+    },
+    "default_transition": {
+      "title": "Default slide transition type",
+      "type": "string",
+      "enum": ["none", "slide", "fade", "zoom"],
+      "enumNames": ["None", "Slide", "Fade", "Zoom"],
+      "default": "slide"
+    }
+  },
+  "additionalProperties": false,
+  "jupyter.lab.menus": {
+    "main": [
+      {
+        "id": "slideshow-menu",
+        "label": "Slideshow",
+        "rank": 80,
+        "items": [
+          {
+            "command": "slideshow:start-first"
+          },
+          {
+            "command": "slideshow:start-current"
+          },
+          {
+            "command": "slideshow:exit"
+          }
+        ]
+      }
+    ]
+  },
+  "jupyter.lab.metadataforms": [
+    {
+      "id": "slideshow-metadata-form:plugin",
+      "label": "Slideshow Tools",
+      "uiSchema": {
+        "ui:order": [
+          "/slideshow/transition",
+          "/slideshow/transition_out",
+          "/slideshow/slide_dir",
+          "/slideshow/transition_duration",
+          "/slideshow/hide_code"
+        ]
+      },
+      "metadataSchema": {
+        "type": "object",
+        "properties": {
+          "/slideshow/transition": {
+            "title": "Transition Type",
+            "type": "string",
+            "enum": ["", "none", "slide", "fade", "zoom"],
+            "enumNames": ["Default", "None", "Slide", "Fade", "Zoom"],
+            "default": ""
+          },
+          "/slideshow/transition_out": {
+            "title": "Transition-out Type",
+            "description": "Does not apply to fragments",
+            "type": "string",
+            "enum": ["", "none", "slide", "fade", "zoom"],
+            "enumNames": ["Inherit", "None", "Slide", "Fade", "Zoom"],
+            "default": ""
+          },
+          "/slideshow/transition_duration": {
+            "title": "Transition Duration (seconds)",
+            "description": "Default: 0.5 seconds",
+            "type": "number",
+            "minimum": 0
+          },
+          "/slideshow/hide_code": {
+            "title": "Hide Code Cell",
+            "type": "boolean",
+            "default": false
+          }
+        },
+        "allOf": [
+          {
+            "if": {
+              "anyOf": [
+                {
+                  "properties": {
+                    "/slideshow/transition": {
+                      "const": "slide"
+                    }
+                  }
+                },
+                {
+                  "properties": {
+                    "/slideshow/transition_out": {
+                      "const": "slide"
+                    }
+                  }
+                }
+              ]
+            },
+            "then": {
+              "properties": {
+                "/slideshow/slide_dir": {
+                  "title": "Slide Direction",
+                  "type": "string",
+                  "enum": ["horizontal", "vertical"],
+                  "enumNames": ["Horizontal", "Vertical"]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "metadataOptions": {
+        "/slideshow/hide_code": {
+          "cellTypes": ["code"]
+        }
+      }
+    }
+  ]
+}

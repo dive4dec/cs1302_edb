@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2026-04-29T16:10:04.914637Z",
+      "created": "2026-04-29T01:58:30.059247Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -16,7 +16,7 @@
     },
     {
       "content": null,
-      "created": "2026-04-29T16:10:04.914872Z",
+      "created": "2026-04-29T01:58:30.059326Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -30,7 +30,7 @@
     },
     {
       "content": null,
-      "created": "2026-04-29T16:10:04.914397Z",
+      "created": "2026-04-29T01:58:30.059039Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -43,11 +43,11 @@
       "writable": true
     }
   ],
-  "created": "2026-04-29T16:10:04.914779Z",
+  "created": "2026-05-16T05:28:31.415957Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-04-29T16:10:04.914779Z",
+  "last_modified": "2026-05-16T05:28:31.416708Z",
   "mimetype": null,
   "name": "Lab6",
   "path": "Lab6",

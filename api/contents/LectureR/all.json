@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2026-04-29T16:10:04.923431Z",
+      "created": "2026-04-29T01:58:30.065334Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -15,11 +15,11 @@
       "writable": true
     }
   ],
-  "created": "2026-04-29T16:10:04.923342Z",
+  "created": "2026-05-16T05:28:31.430302Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-04-29T16:10:04.923342Z",
+  "last_modified": "2026-05-16T05:28:31.430361Z",
   "mimetype": null,
   "name": "LectureR",
   "path": "LectureR",

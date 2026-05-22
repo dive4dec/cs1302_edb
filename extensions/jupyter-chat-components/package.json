@@ -1,6 +1,6 @@
 {
   "name": "jupyter-chat-components",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "description": "Components to displayed in jupyter chat",
   "keywords": [
     "jupyter",
@@ -61,6 +61,7 @@
     "@jupyterlab/rendermime": "^4.5.0",
     "@jupyterlab/rendermime-interfaces": "^3.8.0",
     "@jupyterlab/translation": "^4.5.0",
+    "@jupyterlab/ui-components": "^4.5.0",
     "@lumino/coreutils": "^2.2.2",
     "@lumino/widgets": "^2.1.0",
     "diff": "^8.0.0"
@@ -107,7 +108,7 @@
     "extension": true,
     "outputDir": "jupyter_chat_components/labextension",
     "_build": {
-      "load": "static/remoteEntry.3c9022459c82de2b27a8.js",
+      "load": "static/remoteEntry.e9b95d1a5daf2de29505.js",
       "extension": "./extension",
       "style": "./style"
     }

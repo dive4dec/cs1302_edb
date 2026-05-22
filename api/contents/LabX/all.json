@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-04-29T16:10:04.916832Z",
+      "created": "2026-05-22T01:21:23.885229Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-04-29T01:58:30.060319Z",
+      "last_modified": "2026-04-27T09:07:55.651456Z",
       "mimetype": null,
       "name": "Monte_Carlo_and_Root_Finding.ipynb",
       "path": "LabX/Monte_Carlo_and_Root_Finding.ipynb",
@@ -15,11 +15,11 @@
       "writable": true
     }
   ],
-  "created": "2026-04-29T16:10:04.916756Z",
+  "created": "2026-05-22T01:21:23.881229Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-04-29T16:10:04.916756Z",
+  "last_modified": "2026-05-22T01:21:23.881229Z",
   "mimetype": null,
   "name": "LabX",
   "path": "LabX",

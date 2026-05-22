@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-04-29T16:10:04.917619Z",
+      "created": "2026-05-22T01:21:23.941229Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-04-29T01:58:30.061397Z",
+      "last_modified": "2026-04-27T09:07:57.967449Z",
       "mimetype": "image/png",
       "name": "spiral.png",
       "path": "LabXoptional/images/spiral.png",
@@ -15,11 +15,11 @@
       "writable": true
     }
   ],
-  "created": "2026-04-29T16:10:04.917486Z",
+  "created": "2026-05-22T01:21:23.913229Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-04-29T16:10:04.917486Z",
+  "last_modified": "2026-05-22T01:21:23.913229Z",
   "mimetype": null,
   "name": "images",
   "path": "LabXoptional/images",

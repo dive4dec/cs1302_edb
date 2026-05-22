@@ -2,14 +2,14 @@
   "jupyter-config-data": {
     "appName": "JupyterLite",
     "appUrl": "./lab",
-    "appVersion": "0.7.4",
+    "appVersion": "0.7.6",
     "baseUrl": "./",
     "defaultKernelName": "python",
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.8f7f432125caeb45a22b.js",
+        "load": "static/remoteEntry.c632334bd55eee9396d9.js",
         "name": "@jupyter-notebook/lab-extension",
         "style": "./style"
       },
@@ -20,7 +20,7 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.3af3cb89657e191a2325.js",
+        "load": "static/remoteEntry.d95506b1ada2d7e9e57f.js",
         "name": "@jupyterlite/ai",
         "style": "./style"
       },
@@ -32,7 +32,13 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.3c9022459c82de2b27a8.js",
+        "load": "static/remoteEntry.bee60649ae27ec9d4d09.js",
+        "name": "dive-custom-slideshow",
+        "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "load": "static/remoteEntry.e9b95d1a5daf2de29505.js",
         "name": "jupyter-chat-components",
         "style": "./style"
       },
@@ -70,6 +76,11 @@
         "load": "static/remoteEntry.5577376b289c1f9e2dc2.js",
         "name": "jupyterlab-eventlistener-extension",
         "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "load": "static/remoteEntry.3cd7db059862f41b8c06.js",
+        "name": "jupyterlab-jupytext"
       },
       {
         "extension": "./extension",

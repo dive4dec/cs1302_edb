@@ -2,15 +2,15 @@
   "content": [
     {
       "content": null,
-      "created": "2026-05-22T03:07:10.958399Z",
+      "created": "2026-05-27T08:34:36.843367Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-05-22T02:52:13.586152Z",
+      "last_modified": "2026-05-27T08:25:20.925675Z",
       "mimetype": null,
       "name": "Values_and_Variables.ipynb",
       "path": "Lecture2/Values_and_Variables.ipynb",
-      "size": 73614,
+      "size": 73629,
       "type": "notebook",
       "writable": true
     },
@@ -30,15 +30,15 @@
     },
     {
       "content": null,
-      "created": "2026-05-22T03:07:10.942399Z",
+      "created": "2026-05-27T08:34:36.823368Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-05-22T02:52:11.550160Z",
+      "last_modified": "2026-05-27T08:25:18.877683Z",
       "mimetype": null,
       "name": "Expressions_and_Arithmetic.ipynb",
       "path": "Lecture2/Expressions_and_Arithmetic.ipynb",
-      "size": 48870,
+      "size": 48885,
       "type": "notebook",
       "writable": true
     },
@@ -71,11 +71,11 @@
       "writable": true
     }
   ],
-  "created": "2026-05-22T03:07:10.950399Z",
+  "created": "2026-05-27T08:34:36.831367Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-05-22T03:07:10.950399Z",
+  "last_modified": "2026-05-27T08:34:36.831367Z",
   "mimetype": null,
   "name": "Lecture2",
   "path": "Lecture2",

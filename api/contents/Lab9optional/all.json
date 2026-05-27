@@ -2,15 +2,15 @@
   "content": [
     {
       "content": null,
-      "created": "2026-05-22T03:07:10.882399Z",
+      "created": "2026-05-27T08:34:36.763368Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-05-22T02:51:49.018255Z",
+      "last_modified": "2026-05-27T08:24:58.873765Z",
       "mimetype": null,
       "name": "Language_Model.ipynb",
       "path": "Lab9optional/Language_Model.ipynb",
-      "size": 38657,
+      "size": 38672,
       "type": "notebook",
       "writable": true
     },
@@ -29,11 +29,11 @@
       "writable": true
     }
   ],
-  "created": "2026-05-22T03:07:10.874399Z",
+  "created": "2026-05-27T08:34:36.755368Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-05-22T03:07:10.874399Z",
+  "last_modified": "2026-05-27T08:34:36.755368Z",
   "mimetype": null,
   "name": "Lab9optional",
   "path": "Lab9optional",

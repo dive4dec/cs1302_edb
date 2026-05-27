@@ -2,15 +2,15 @@
   "content": [
     {
       "content": null,
-      "created": "2026-05-22T03:07:10.646400Z",
+      "created": "2026-05-27T08:34:36.447369Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-05-22T02:50:47.422512Z",
+      "last_modified": "2026-05-27T08:23:58.586013Z",
       "mimetype": null,
       "name": "Debugger.ipynb",
       "path": "Lab1/Debugger.ipynb",
-      "size": 17874,
+      "size": 17889,
       "type": "notebook",
       "writable": true
     },
@@ -30,15 +30,15 @@
     },
     {
       "content": null,
-      "created": "2026-05-22T03:07:10.634400Z",
+      "created": "2026-05-27T08:34:36.435369Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-05-22T02:50:46.514515Z",
+      "last_modified": "2026-05-27T08:23:57.554017Z",
       "mimetype": null,
       "name": "Binary_Code.ipynb",
       "path": "Lab1/Binary_Code.ipynb",
-      "size": 41847,
+      "size": 41862,
       "type": "notebook",
       "writable": true
     },
@@ -57,11 +57,11 @@
       "writable": true
     }
   ],
-  "created": "2026-05-22T03:07:10.642401Z",
+  "created": "2026-05-27T08:34:36.443369Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-05-22T03:07:10.642401Z",
+  "last_modified": "2026-05-27T08:34:36.443369Z",
   "mimetype": null,
   "name": "Lab1",
   "path": "Lab1",

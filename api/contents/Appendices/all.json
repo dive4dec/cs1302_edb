@@ -16,15 +16,15 @@
     },
     {
       "content": null,
-      "created": "2026-06-06T03:10:12.898736Z",
+      "created": "2026-06-06T03:29:46.997569Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-06-06T03:08:30.719151Z",
+      "last_modified": "2026-06-06T03:27:45.746087Z",
       "mimetype": null,
       "name": "Agentic_Coding.ipynb",
       "path": "Appendices/Agentic_Coding.ipynb",
-      "size": 19976,
+      "size": 26491,
       "type": "notebook",
       "writable": true
     },
@@ -43,11 +43,11 @@
       "writable": true
     }
   ],
-  "created": "2026-06-06T03:10:12.922735Z",
+  "created": "2026-06-06T03:29:46.993569Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-06-06T03:10:12.922735Z",
+  "last_modified": "2026-06-06T03:29:46.993569Z",
   "mimetype": null,
   "name": "Appendices",
   "path": "Appendices",

@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-06-06T03:10:12.930735Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-06-06T03:08:31.587148Z",
+      "mimetype": null,
+      "name": "JLite.ipynb",
+      "path": "Appendices/JLite.ipynb",
+      "size": 14933,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-06-06T03:10:12.898736Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-06-06T03:08:30.719151Z",
+      "mimetype": null,
+      "name": "Agentic_Coding.ipynb",
+      "path": "Appendices/Agentic_Coding.ipynb",
+      "size": 19976,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-06-06T03:10:12.914735Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-06-06T03:08:31.151150Z",
+      "mimetype": null,
+      "name": "Hermes.ipynb",
+      "path": "Appendices/Hermes.ipynb",
+      "size": 37685,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-06-06T03:10:12.922735Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-06-06T03:10:12.922735Z",
+  "mimetype": null,
+  "name": "Appendices",
+  "path": "Appendices",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

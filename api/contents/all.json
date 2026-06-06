@@ -16,6 +16,20 @@
     },
     {
       "content": null,
+      "created": "2026-06-06T03:10:12.922735Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-06-06T03:10:12.922735Z",
+      "mimetype": null,
+      "name": "Appendices",
+      "path": "Appendices",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
       "created": "2026-05-27T08:34:36.951367Z",
       "format": null,
       "hash": null,
@@ -351,11 +365,11 @@
       "writable": true
     }
   ],
-  "created": "2026-05-22T01:21:24.205228Z",
+  "created": "2026-06-06T03:10:12.890735Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-05-22T01:21:24.205228Z",
+  "last_modified": "2026-06-06T03:10:12.890735Z",
   "mimetype": null,
   "name": "",
   "path": "",

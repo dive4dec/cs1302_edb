@@ -64,6 +64,34 @@
       "subdir": "emscripten-wasm32"
     },
     {
+      "name": "traitlets",
+      "version": "5.15.1",
+      "build": "pyhcf101f3_0",
+      "filename_stem": "traitlets-5.15.1-pyhcf101f3_0",
+      "filename": "traitlets-5.15.1-pyhcf101f3_0.tar.gz",
+      "channel": "https://prefix.dev/conda-forge",
+      "depends": [
+        "python >=3.10",
+        "python"
+      ],
+      "subdir": "noarch"
+    },
+    {
+      "name": "xeus-python-shell-lite",
+      "version": "0.8.0",
+      "build": "pyhd8ed1ab_0",
+      "filename_stem": "xeus-python-shell-lite-0.8.0-pyhd8ed1ab_0",
+      "filename": "xeus-python-shell-lite-0.8.0-pyhd8ed1ab_0.tar.gz",
+      "channel": "https://prefix.dev/conda-forge",
+      "depends": [
+        "packaging",
+        "pyodide-http",
+        "python",
+        "xeus-python-shell 0.8.0 pyh332efcf_0"
+      ],
+      "subdir": "noarch"
+    },
+    {
       "name": "jupyterlab-myst",
       "version": "2.3.1",
       "build": "pyhd8ed1ab_0",
@@ -110,19 +138,6 @@
       "channel": "https://prefix.dev/conda-forge",
       "depends": [
         "python >=3.10"
-      ],
-      "subdir": "noarch"
-    },
-    {
-      "name": "traitlets",
-      "version": "5.15.0",
-      "build": "pyhcf101f3_0",
-      "filename_stem": "traitlets-5.15.0-pyhcf101f3_0",
-      "filename": "traitlets-5.15.0-pyhcf101f3_0.tar.gz",
-      "channel": "https://prefix.dev/conda-forge",
-      "depends": [
-        "python >=3.10",
-        "python"
       ],
       "subdir": "noarch"
     },
@@ -216,6 +231,20 @@
       "subdir": "emscripten-wasm32"
     },
     {
+      "name": "xeus-python-shell",
+      "version": "0.8.0",
+      "build": "pyh332efcf_0",
+      "filename_stem": "xeus-python-shell-0.8.0-pyh332efcf_0",
+      "filename": "xeus-python-shell-0.8.0-pyh332efcf_0.tar.gz",
+      "channel": "https://prefix.dev/conda-forge",
+      "depends": [
+        "ipython >=7.21",
+        "python",
+        "xeus-python-shell-raw 0.8.0 pyhd8ed1ab_0"
+      ],
+      "subdir": "noarch"
+    },
+    {
       "name": "zlib",
       "version": "1.3.2",
       "build": "h8b79025_0",
@@ -241,35 +270,14 @@
       "subdir": "noarch"
     },
     {
-      "name": "xeus-python",
-      "version": "0.19.0",
-      "build": "py313h6852881_1",
-      "filename_stem": "xeus-python-0.19.0-py313h6852881_1",
-      "filename": "xeus-python-0.19.0-py313h6852881_1.tar.gz",
-      "channel": "https://prefix.dev/emscripten-forge-4x",
-      "depends": [
-        "python",
-        "xeus-python-shell-lite >=0.7,<0.8",
-        "pyjs-rt >=4.0.4",
-        "emscripten-abi >=4,<5.0a0",
-        "nlohmann_json-abi 3.12.0",
-        "python_abi 3.13.* *_cp313",
-        "xeus >=6.0.5,<6.1.0a0"
-      ],
-      "subdir": "emscripten-wasm32"
-    },
-    {
-      "name": "xeus-python-shell-lite",
-      "version": "0.7.0",
+      "name": "xeus-python-shell-raw",
+      "version": "0.8.0",
       "build": "pyhd8ed1ab_0",
-      "filename_stem": "xeus-python-shell-lite-0.7.0-pyhd8ed1ab_0",
-      "filename": "xeus-python-shell-lite-0.7.0-pyhd8ed1ab_0.tar.gz",
+      "filename_stem": "xeus-python-shell-raw-0.8.0-pyhd8ed1ab_0",
+      "filename": "xeus-python-shell-raw-0.8.0-pyhd8ed1ab_0.tar.gz",
       "channel": "https://prefix.dev/conda-forge",
       "depends": [
-        "packaging",
-        "pyodide-http",
-        "python",
-        "xeus-python-shell 0.7.0 pyh332efcf_0"
+        "python >=3.10"
       ],
       "subdir": "noarch"
     },
@@ -411,20 +419,6 @@
       "subdir": "noarch"
     },
     {
-      "name": "xeus-python-shell",
-      "version": "0.7.0",
-      "build": "pyh332efcf_0",
-      "filename_stem": "xeus-python-shell-0.7.0-pyh332efcf_0",
-      "filename": "xeus-python-shell-0.7.0-pyh332efcf_0.tar.gz",
-      "channel": "https://prefix.dev/conda-forge",
-      "depends": [
-        "ipython >=7.21",
-        "python",
-        "xeus-python-shell-raw 0.7.0 pyhd8ed1ab_0"
-      ],
-      "subdir": "noarch"
-    },
-    {
       "name": "comm",
       "version": "0.2.3",
       "build": "pyhe01879c_0",
@@ -473,18 +467,6 @@
       "channel": "https://prefix.dev/conda-forge",
       "depends": [
         "python"
-      ],
-      "subdir": "noarch"
-    },
-    {
-      "name": "xeus-python-shell-raw",
-      "version": "0.7.0",
-      "build": "pyhd8ed1ab_0",
-      "filename_stem": "xeus-python-shell-raw-0.7.0-pyhd8ed1ab_0",
-      "filename": "xeus-python-shell-raw-0.7.0-pyhd8ed1ab_0.tar.gz",
-      "channel": "https://prefix.dev/conda-forge",
-      "depends": [
-        "python >=3.10"
       ],
       "subdir": "noarch"
     },
@@ -575,6 +557,24 @@
       "depends": [
         "emscripten-abi >=4,<5.0a0",
         "python_abi 3.13.* *_cp313"
+      ],
+      "subdir": "emscripten-wasm32"
+    },
+    {
+      "name": "xeus-python",
+      "version": "0.19.0",
+      "build": "py313h6852881_2",
+      "filename_stem": "xeus-python-0.19.0-py313h6852881_2",
+      "filename": "xeus-python-0.19.0-py313h6852881_2.tar.gz",
+      "channel": "https://prefix.dev/emscripten-forge-4x",
+      "depends": [
+        "python",
+        "xeus-python-shell-lite >=0.8,<0.9",
+        "pyjs-rt >=4.0.4",
+        "emscripten-abi >=4,<5.0a0",
+        "python_abi 3.13.* *_cp313",
+        "xeus >=6.0.5,<6.1.0a0",
+        "nlohmann_json-abi 3.12.0"
       ],
       "subdir": "emscripten-wasm32"
     },
